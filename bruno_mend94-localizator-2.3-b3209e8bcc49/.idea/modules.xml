@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestFinder.iml" filepath="$PROJECT_DIR$/TestFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bruno_mend94-localizator-2.3-b3209e8bcc49.iml" filepath="$PROJECT_DIR$/bruno_mend94-localizator-2.3-b3209e8bcc49.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localizator</string>
+    <string name="add_address">Adicionar Endereço</string>
+    <string name="show_addresses">Mostrar Endereços</string>
+    <string name="address">Endereço</string>
+    <string name="add">Adicionar</string>
+</resources>
